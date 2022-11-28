@@ -1,0 +1,8 @@
+Müşteriyi karşıla ve ne istediğini sor => Menüler : Bigmag, MC Chicken, Hamburger, Chees Burger, Sossal Burger
+Malzeme ekleme çıkartma yapmak istiyor mu? Neler?
+Menü boyutu, atıştırmalık seçimi ve içecek sor. 
+    Atıştırmalık istiyor ise neyden kaçtane istediğini sor => Add On : Nudget(4X, 6X, 9X, 20X), Bites, Karışık
+Sos seçimi
+Fiyat 
+Ödeme seçeneği
+Sipariş onayı
