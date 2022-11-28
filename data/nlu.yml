@@ -1,91 +1,73 @@
 version: "3.1"
 
 nlu:
-- intent: greet
+- intent: bigmac
   examples: |
-    - hey
-    - hello
-    - hi
-    - hello there
-    - good morning
-    - good evening
-    - moin
-    - hey there
-    - let's go
-    - hey dude
-    - goodmorning
-    - goodevening
-    - good afternoon
+    - bigmac
+    - bigmac menu
+    - bigmac istiyorum
 
-- intent: goodbye
+- intent: mc_chicken
   examples: |
-    - cu
-    - good by
-    - cee you later
-    - good night
-    - bye
-    - goodbye
-    - have a nice day
-    - see you around
-    - bye bye
-    - see you later
+    - mc chicken
+    - mc chicken menu
+    - mc chicken istiyorum
 
-- intent: affirm
+- intent: hamburger
   examples: |
-    - yes
-    - y
-    - indeed
-    - of course
-    - that sounds good
-    - correct
+    - hamburger
+    - hamburger menu
+    - hamburger istiyorum
 
-- intent: deny
-  examples: |
-    - no
-    - n
-    - never
-    - I don't think so
-    - don't like that
-    - no way
-    - not really
 
-- intent: mood_great
+- intent: chees_burger
   examples: |
-    - perfect
-    - great
-    - amazing
-    - feeling like a king
-    - wonderful
-    - I am feeling very good
-    - I am great
-    - I am amazing
-    - I am going to save the world
-    - super stoked
-    - extremely good
-    - so so perfect
-    - so good
-    - so perfect
+    - chees burger
+    - chees burger menu
+    - chees burger istiyorum
 
-- intent: mood_unhappy
+- intent: sossal_burger
   examples: |
-    - my day was horrible
-    - I am sad
-    - I don't feel very well
-    - I am disappointed
-    - super sad
-    - I'm so sad
-    - sad
-    - very sad
-    - unhappy
-    - not good
-    - not very good
-    - extremly sad
-    - so saad
-    - so sad
+    - sossal burger
+    - sossal burger menu
+    - sossal burger istiyorum
 
-- intent: bot_challenge
+- intent: sos
   examples: |
-    - are you a bot?
-    - are you a human?
-    - am I talking to a bot?
-    - am I talking to a human?
+    - sos
+    - ketçap
+    - mayonez
+    - range sos
+    - range
+    - bufalo
+    - acı hardal
+    - acı hardal sos
+    - barbequ
+    - sarımsaklı acı sos
+    - sarımsaklı acı
+    - sos istiyorum
+    - sos olsun
+
+- intent: atistirmalik
+  examples: |
+    - atistirmalik
+    - atistirmalik istiyorum
+    - atistirmalik olsun
+    - nudget 
+    - bites
+    - yanına atıştırmalık istiyorum
+
+- intent: odeme_secenegi
+  examples: |
+    - odeme_secenegi
+    - kartla
+    - nakit
+    - kapıda ödeme
+    - post cihazı da gelsin
+    - kredi kartı
+    - banka kartı
+    - kartla ödeyeceğim
+    - ödeme
+    - fiyat
+    - ödeme istiyorum
+  
